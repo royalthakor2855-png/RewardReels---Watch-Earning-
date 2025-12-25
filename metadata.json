@@ -1,0 +1,8 @@
+{
+  "name": "RewardReels - Watch & Earning ",
+  "description": "A premium vertical video rewards platform where users earn points for watching ads, engaging with content, and completing daily challenges. Inspired by modern short-video platforms with a robust earning ecosystem.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
